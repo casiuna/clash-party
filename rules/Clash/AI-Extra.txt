@@ -1,0 +1,10 @@
+# NAME: AI-Extra
+# AUTHOR: Colawhisky
+# UPDATED: 2026-07-28
+
+DOMAIN-SUFFIX,workos.com
+DOMAIN-SUFFIX,workoscdn.com
+DOMAIN,workos.imgix.net
+DOMAIN,cdn.openaimerge.com
+DOMAIN,challenges.cloudflare.com
+DOMAIN-SUFFIX,browser-intake-datadoghq.com
