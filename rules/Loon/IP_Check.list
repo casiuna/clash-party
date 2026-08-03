@@ -1,0 +1,10 @@
+# NAME: IP Check
+# AUTHOR: KHB
+# UPDATED: 2026-08-04
+# DOMAIN: 4
+# TOTAL: 4
+
+DOMAIN,ping0.cc
+DOMAIN,api.ip.sb
+DOMAIN,ipwho.is
+DOMAIN,api.ipapi.is
