@@ -1,6 +1,9 @@
 # NAME: AI-Extra
-# AUTHOR: Colawhisky
-# UPDATED: 2026-07-28
+# AUTHOR: CASIUNA
+# UPDATED: 2026-08-05
+# DOMAIN-SUFFIX: 2
+# DOMAIN: 4
+# TOTAL: 6
 
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workoscdn.com
