@@ -1,0 +1,11 @@
+# NAME: Crypto-Extra
+# AUTHOR: CASIUNA
+# UPDATED: 2026-08-05
+# TOTAL: 6
+
++.bytick.com
++.crypto.com
++.bitget.com
++.coinex.com
++.htx.com
++.deribit.com
