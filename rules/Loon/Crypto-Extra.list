@@ -1,20 +1,14 @@
 # NAME: Crypto Extra
-# AUTHOR: KHB
-# UPDATED: 2026-08-04
+# AUTHOR: CASIUNA
+# UPDATED: 2026-08-05
 # DOMAIN-KEYWORD: 1
 # DOMAIN-SUFFIX: 6
 # TOTAL: 7
 
-# Bybit
 DOMAIN-KEYWORD,bybit
 DOMAIN-SUFFIX,bytick.com
-# Crypto.com
 DOMAIN-SUFFIX,crypto.com
-# Bitget
 DOMAIN-SUFFIX,bitget.com
-# CoinEx
 DOMAIN-SUFFIX,coinex.com
-# HTX
 DOMAIN-SUFFIX,htx.com
-# Deribit
 DOMAIN-SUFFIX,deribit.com
