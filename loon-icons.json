@@ -3,6 +3,10 @@
   "description": "by CASIUNA",
   "icons": [
     {
+      "name": "Dmit",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/dmit.png"
+    },
+    {
       "name": "YYSSR",
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/yyssr.png"
     },
@@ -15,8 +19,8 @@
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/cliproxy.png"
     },
     {
-      "name": "Dmit",
-      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/dmit.png"
+      "name": "Talkatone",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/talkatone.png"
     }
   ]
 }
