@@ -1,0 +1,12 @@
+# NAME: WhatsApp
+# AUTHOR: CASIUNA
+# UPDATED: 2026-08-22
+# DOMAIN-SUFFIX: 4
+# DOMAIN: 1
+# TOTAL: 5
+
++.bintray.com
++.whatsapp.biz
++.whatsapp.com
++.whatsapp.net
+graph.facebook.com
