@@ -1,0 +1,11 @@
+# NAME: Talkatone
+# AUTHOR: CASIUNA
+# UPDATED: 2026-08-10
+# DOMAIN-SUFFIX: 3
+# DOMAIN: 1
+# TOTAL: 4
+
++.talkatone.com
++.tktn.at
++.tktn.be
+checkip.amazonaws.com
