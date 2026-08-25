@@ -1,9 +1,9 @@
 # NAME: AI-Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-08-10
+# UPDATED: 2026-08-26
 # DOMAIN-SUFFIX: 6
-# DOMAIN: 2
-# TOTAL: 8
+# DOMAIN: 4
+# TOTAL: 10
 
 +.workos.com
 +.workoscdn.com
@@ -13,3 +13,5 @@ cdn.openaimerge.com
 +.browser-intake-datadoghq.com
 +.hcaptcha.com
 +.arkoselabs.com
+api.casiuna.com
+chat.casiuna.com
