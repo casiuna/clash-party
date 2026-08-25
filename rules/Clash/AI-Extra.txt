@@ -13,5 +13,3 @@ cdn.openaimerge.com
 +.browser-intake-datadoghq.com
 +.hcaptcha.com
 +.arkoselabs.com
-api.casiuna.com
-chat.casiuna.com
