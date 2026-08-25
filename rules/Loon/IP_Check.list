@@ -1,10 +1,14 @@
 # NAME: IP Check
 # AUTHOR: CASIUNA
 # UPDATED: 2026-08-05
-# DOMAIN: 4
-# TOTAL: 4
+# DOMAIN: 6
+# DOMAIN-KEYWORD: 1
+# TOTAL: 7
 
 DOMAIN,ping0.cc
 DOMAIN,api.ip.sb
 DOMAIN,ipwho.is
 DOMAIN,api.ipapi.is
+DOMAIN,api.ipify.org
+DOMAIN,ipinfo.cv
+DOMAIN-KEYWORD,test-ipv6
