@@ -1,12 +1,47 @@
 # NAME: IP Check
 # AUTHOR: CASIUNA
-# UPDATED: 2026-08-25
-# DOMAIN: 6
-# TOTAL: 6
+# UPDATED: 2026-09-05
+# DOMAIN: 19
+# DOMAIN-SUFFIX: 16
+# TOTAL: 35
 
+# IP / Geo
 ping0.cc
-api.ip.sb
++.ip.sb
 ipwho.is
-api.ipapi.is
-api.ipify.org
++.ipapi.is
++.ipify.org
 ipinfo.cv
+ipinfo.io
+ip.me
+ipapi.co
+ip-api.com
+ifconfig.me
+ifconfig.co
+icanhazip.com
+ident.me
+checkip.amazonaws.com
+whatismyip.com
+whatismyipaddress.com
+iplocation.net
+myip.com
+ip111.cn
+ip.skk.moe
++.ipw.cn
+ip8.com
+
+# IP / DNS / WebRTC Leak
++.ipleak.net
++.browserleaks.com
++.dnsleaktest.com
++.dnsleaktest.org
++.dnscheck.tools
++.bash.ws
++.whoer.net
++.ipx.ac
++.browserscan.net
++.iphey.com
+
+# IPv4 / IPv6 Connectivity
++.test-ipv6.com
++.ipv6-test.com
