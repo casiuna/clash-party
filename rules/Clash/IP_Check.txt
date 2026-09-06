@@ -15,7 +15,7 @@ ipwho.is
 +.ipinfo.io
 iplark.com
 ippure.com
-+.acceboy.com
++.icanhazip.com
 +.abuseipdb.com
 +.ipqualityscore.com
 +.ip2location.com
