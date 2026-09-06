@@ -1,8 +1,8 @@
 # NAME: IP Check
 # AUTHOR: CASIUNA
-# UPDATED: 2026-09-05
-# DOMAIN: 19
-# DOMAIN-SUFFIX: 16
+# UPDATED: 2026-09-07
+# DOMAIN: 17
+# DOMAIN-SUFFIX: 18
 # TOTAL: 35
 
 # IP / Geo
@@ -11,8 +11,8 @@ ping0.cc
 ipwho.is
 +.ipapi.is
 +.ipify.org
-ipinfo.cv
-ipinfo.io
++.ipinfo.cv
++.ipinfo.io
 ip.me
 ipapi.co
 ip-api.com
