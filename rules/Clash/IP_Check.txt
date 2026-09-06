@@ -1,9 +1,9 @@
 # NAME: IP Check
 # AUTHOR: CASIUNA
 # UPDATED: 2026-09-07
-# DOMAIN: 17
-# DOMAIN-SUFFIX: 18
-# TOTAL: 35
+# DOMAIN: 20
+# DOMAIN-SUFFIX: 21
+# TOTAL: 41
 
 # IP / Geo
 ping0.cc
@@ -13,6 +13,12 @@ ipwho.is
 +.ipify.org
 +.ipinfo.cv
 +.ipinfo.io
+iplark.com
+ippure.com
++.abuseipdb.com
++.ipqualityscore.com
++.ip2location.com
+scamalytics.com
 ip.me
 ipapi.co
 ip-api.com
