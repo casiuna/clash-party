@@ -2,8 +2,8 @@
 # AUTHOR: CASIUNA
 # UPDATED: 2026-09-07
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 21
-# TOTAL: 41
+# DOMAIN-SUFFIX: 22
+# TOTAL: 42
 
 # IP / Geo
 ping0.cc
@@ -15,6 +15,7 @@ ipwho.is
 +.ipinfo.io
 iplark.com
 ippure.com
++.acceboy.com
 +.abuseipdb.com
 +.ipqualityscore.com
 +.ip2location.com
