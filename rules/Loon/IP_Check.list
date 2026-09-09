@@ -1,14 +1,54 @@
 # NAME: IP Check
 # AUTHOR: CASIUNA
-# UPDATED: 2026-08-05
-# DOMAIN: 6
-# DOMAIN-KEYWORD: 1
-# TOTAL: 7
+# UPDATED: 2026-09-10
+# DOMAIN: 20
+# DOMAIN-SUFFIX: 22
+# TOTAL: 42
 
+# IP / Geo
 DOMAIN,ping0.cc
-DOMAIN,api.ip.sb
+DOMAIN-SUFFIX,ip.sb
 DOMAIN,ipwho.is
-DOMAIN,api.ipapi.is
-DOMAIN,api.ipify.org
-DOMAIN,ipinfo.cv
-DOMAIN-KEYWORD,test-ipv6
+DOMAIN-SUFFIX,ipapi.is
+DOMAIN-SUFFIX,ipify.org
+DOMAIN-SUFFIX,ipinfo.cv
+DOMAIN-SUFFIX,ipinfo.io
+DOMAIN,iplark.com
+DOMAIN,ippure.com
+DOMAIN-SUFFIX,icanhazip.com
+DOMAIN-SUFFIX,abuseipdb.com
+DOMAIN-SUFFIX,ipqualityscore.com
+DOMAIN-SUFFIX,ip2location.com
+DOMAIN,scamalytics.com
+DOMAIN,ip.me
+DOMAIN,ipapi.co
+DOMAIN,ip-api.com
+DOMAIN,ifconfig.me
+DOMAIN,ifconfig.co
+DOMAIN,icanhazip.com
+DOMAIN,ident.me
+DOMAIN,checkip.amazonaws.com
+DOMAIN,whatismyip.com
+DOMAIN,whatismyipaddress.com
+DOMAIN,iplocation.net
+DOMAIN,myip.com
+DOMAIN,ip111.cn
+DOMAIN,ip.skk.moe
+DOMAIN-SUFFIX,ipw.cn
+DOMAIN,ip8.com
+
+# IP / DNS / WebRTC Leak
+DOMAIN-SUFFIX,ipleak.net
+DOMAIN-SUFFIX,browserleaks.com
+DOMAIN-SUFFIX,dnsleaktest.com
+DOMAIN-SUFFIX,dnsleaktest.org
+DOMAIN-SUFFIX,dnscheck.tools
+DOMAIN-SUFFIX,bash.ws
+DOMAIN-SUFFIX,whoer.net
+DOMAIN-SUFFIX,ipx.ac
+DOMAIN-SUFFIX,browserscan.net
+DOMAIN-SUFFIX,iphey.com
+
+# IPv4 / IPv6 Connectivity
+DOMAIN-SUFFIX,test-ipv6.com
+DOMAIN-SUFFIX,ipv6-test.com
