@@ -1,14 +1,10 @@
 {
-  "name": "Provider Icons",
+  "name": "CASIUNA's Icons",
   "description": "by CASIUNA",
   "icons": [
     {
       "name": "Dmit",
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/dmit.png"
-    },
-    {
-      "name": "YYSSR",
-      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/yyssr.png"
     },
     {
       "name": "Bajie",
@@ -21,6 +17,10 @@
     {
       "name": "Talkatone",
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/talkatone.png"
+    },
+    {
+      "name": "3xui",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/3xui.png"
     }
   ]
 }
