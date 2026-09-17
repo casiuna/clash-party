@@ -1,0 +1,118 @@
+# NAME: Academic
+# AUTHOR: CASIUNA
+# UPDATED: 2026-09-17
+# DOMAIN-SUFFIX: 89
+# TOTAL: 89
+
+# Index / Database
++.engineeringvillage.com
++.scopus.com
++.clarivate.com
++.webofscience.com
++.webofknowledge.com
++.isiknowledge.com
++.proquest.com
++.ebscohost.com
++.jstor.org
++.dimensions.ai
++.lens.org
++.crossref.org
+
+# IEEE / ACM
++.ieee.org
++.computer.org
++.ieeecomputer.org
++.ieeecomputersociety.org
++.acm.org
+
+# Elsevier
++.elsevier.com
++.elsevier.io
++.els-cdn.com
++.sciencedirect.com
++.sciencedirectassets.com
++.mendeley.com
++.ssrn.com
+
+# Springer Nature
++.springer.com
++.springerlink.com
++.springernature.com
++.springeropen.com
++.nature.com
++.biomedcentral.com
+
+# Wiley
++.wiley.com
+
+# Taylor & Francis
++.tandfonline.com
++.tandf.co.uk
++.taylorandfrancis.com
++.taylorfrancis.com
+
+# Publishers / Journals
++.sagepub.com
++.mdpi.com
++.frontiersin.org
++.cambridge.org
++.oup.com
++.science.org
++.pnas.org
++.cell.com
++.thelancet.com
++.bmj.com
++.nejm.org
+
+# Societies / Technical Publishers
++.iop.org
++.optica.org
++.osapublishing.org
++.spiedigitallibrary.org
++.spie.org
++.aiaa.org
++.asme.org
++.aps.org
++.aip.org
++.rsc.org
++.acs.org
++.siam.org
++.informs.org
+
+# Search / Preprints / Identity
++.scholar.google.com
++.arxiv.org
++.biorxiv.org
++.medrxiv.org
++.semanticscholar.org
++.researchgate.net
++.orcid.org
++.doi.org
++.doaj.org
++.core.ac.uk
++.researchsquare.com
++.zotero.org
++.overleaf.com
++.europepmc.org
++.ncbi.nlm.nih.gov
+
+# Manuscript Submission / Peer Review
++.manuscriptcentral.com
++.scholarone.com
++.editorialmanager.com
++.ejournalpress.com
+
+# Conference Submission
++.easychair.org
++.edas.info
++.paperplaza.net
++.openreview.net
++.hotcrp.com
++.exordo.com
++.cmt3.research.microsoft.com
++.softconf.com
+
+# Academic Publishing Infrastructure
++.silverchair-cdn.com
++.literatumonline.com
++.readcube.com
