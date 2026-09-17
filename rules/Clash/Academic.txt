@@ -23,7 +23,10 @@
 +.computer.org
 +.ieeecomputer.org
 +.ieeecomputersociety.org
-+.acm.org
++.submission.researchexchange.com
++.researchexchange.com
++.scienceconnect.io
++.atyponrex.com
 
 # Elsevier
 +.elsevier.com
