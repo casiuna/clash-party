@@ -1,0 +1,74 @@
+# NAME: AWS
+# AUTHOR: CASIUNA
+# UPDATED: 2026-09-17
+# DOMAIN-SUFFIX: 47
+# TOTAL: 47
+
+# ACM
+DOMAIN-SUFFIX,acmvalidations.com
+DOMAIN-SUFFIX,acmvalidationsaws.com
+
+# Core AWS
+DOMAIN-SUFFIX,amazonaws-china.com
+DOMAIN-SUFFIX,amazonaws.cn
+DOMAIN-SUFFIX,amazonaws.co.uk
+DOMAIN-SUFFIX,amazonaws.com
+DOMAIN-SUFFIX,amazonaws.com.cn
+DOMAIN-SUFFIX,amazonaws.tv
+DOMAIN-SUFFIX,amazonwebservices.com.cn
+
+# WorkDocs
+DOMAIN-SUFFIX,amazonworkdocs.cn
+DOMAIN-SUFFIX,amazonworkdocs.com
+DOMAIN-SUFFIX,amazonworkdocs.com.cn
+
+# SES
+DOMAIN-SUFFIX,amazonses.com
+DOMAIN-SUFFIX,awstrack.me
+
+# Amplify
+DOMAIN-SUFFIX,amplifyapp.com
+DOMAIN-SUFFIX,amplifyframework.com
+
+# AWS Core / Console / Identity
+DOMAIN-SUFFIX,aws
+DOMAIN-SUFFIX,aws.dev
+DOMAIN-SUFFIX,aws.amazon.com
+DOMAIN-SUFFIX,aws.a2z.com
+DOMAIN-SUFFIX,aws-border.cn
+DOMAIN-SUFFIX,aws-icp-domain-manager.cn
+DOMAIN-SUFFIX,awsapps.com
+DOMAIN-SUFFIX,awsapps.cn
+DOMAIN-SUFFIX,awsapps.com.cn
+DOMAIN-SUFFIX,awsautoscaling.com
+DOMAIN-SUFFIX,awsbraket.com
+DOMAIN-SUFFIX,awscloud.com
+DOMAIN-SUFFIX,awscommandlineinterface.com
+DOMAIN-SUFFIX,awsglobalaccelerator.com
+DOMAIN-SUFFIX,awsstatic.cn
+DOMAIN-SUFFIX,awsstatic.com
+DOMAIN-SUFFIX,awsthinkbox.com
+
+# CloudFront
+DOMAIN-SUFFIX,cloudfront-cn.net
+DOMAIN-SUFFIX,cloudfront-test.cn
+DOMAIN-SUFFIX,cloudfront.cn
+DOMAIN-SUFFIX,cloudfront.com
+DOMAIN-SUFFIX,cloudfront.net
+
+# Containers / Elastic Beanstalk
+DOMAIN-SUFFIX,containersonaws.com
+DOMAIN-SUFFIX,elasticbeanstalk.com
+
+# AWS China / NWCD
+DOMAIN-SUFFIX,nwcdcloud.cn
+DOMAIN-SUFFIX,nwcdcloud.com.cn
+DOMAIN-SUFFIX,nwcddns.cn
+DOMAIN-SUFFIX,nwcdinfosec.cn
+
+# Route 53 / SageMaker
+DOMAIN-SUFFIX,route53.cn
+DOMAIN-SUFFIX,sagemaker.com.cn
+
+# Thinkbox
+DOMAIN-SUFFIX,thinkboxsoftware.com
