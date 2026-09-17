@@ -1,0 +1,74 @@
+# NAME: AWS
+# AUTHOR: CASIUNA
+# UPDATED: 2026-09-17
+# DOMAIN-SUFFIX: 47
+# TOTAL: 47
+
+# ACM
++.acmvalidations.com
++.acmvalidationsaws.com
+
+# Core AWS
++.amazonaws-china.com
++.amazonaws.cn
++.amazonaws.co.uk
++.amazonaws.com
++.amazonaws.com.cn
++.amazonaws.tv
++.amazonwebservices.com.cn
+
+# WorkDocs
++.amazonworkdocs.cn
++.amazonworkdocs.com
++.amazonworkdocs.com.cn
+
+# SES
++.amazonses.com
++.awstrack.me
+
+# Amplify
++.amplifyapp.com
++.amplifyframework.com
+
+# AWS Core / Console / Identity
++.aws
++.aws.dev
++.aws.amazon.com
++.aws.a2z.com
++.aws-border.cn
++.aws-icp-domain-manager.cn
++.awsapps.com
++.awsapps.cn
++.awsapps.com.cn
++.awsautoscaling.com
++.awsbraket.com
++.awscloud.com
++.awscommandlineinterface.com
++.awsglobalaccelerator.com
++.awsstatic.cn
++.awsstatic.com
++.awsthinkbox.com
+
+# CloudFront
++.cloudfront-cn.net
++.cloudfront-test.cn
++.cloudfront.cn
++.cloudfront.com
++.cloudfront.net
+
+# Containers / Elastic Beanstalk
++.containersonaws.com
++.elasticbeanstalk.com
+
+# AWS China / NWCD
++.nwcdcloud.cn
++.nwcdcloud.com.cn
++.nwcddns.cn
++.nwcdinfosec.cn
+
+# Route 53 / SageMaker
++.route53.cn
++.sagemaker.com.cn
+
+# Thinkbox
++.thinkboxsoftware.com
