@@ -1,0 +1,118 @@
+# NAME: Academic
+# AUTHOR: CASIUNA
+# UPDATED: 2026-09-17
+# DOMAIN-SUFFIX: 89
+# TOTAL: 89
+
+# Index / Database
+DOMAIN-SUFFIX,engineeringvillage.com
+DOMAIN-SUFFIX,scopus.com
+DOMAIN-SUFFIX,clarivate.com
+DOMAIN-SUFFIX,webofscience.com
+DOMAIN-SUFFIX,webofknowledge.com
+DOMAIN-SUFFIX,isiknowledge.com
+DOMAIN-SUFFIX,proquest.com
+DOMAIN-SUFFIX,ebscohost.com
+DOMAIN-SUFFIX,jstor.org
+DOMAIN-SUFFIX,dimensions.ai
+DOMAIN-SUFFIX,lens.org
+DOMAIN-SUFFIX,crossref.org
+
+# IEEE / ACM
+DOMAIN-SUFFIX,ieee.org
+DOMAIN-SUFFIX,computer.org
+DOMAIN-SUFFIX,ieeecomputer.org
+DOMAIN-SUFFIX,ieeecomputersociety.org
+DOMAIN-SUFFIX,acm.org
+
+# Elsevier
+DOMAIN-SUFFIX,elsevier.com
+DOMAIN-SUFFIX,elsevier.io
+DOMAIN-SUFFIX,els-cdn.com
+DOMAIN-SUFFIX,sciencedirect.com
+DOMAIN-SUFFIX,sciencedirectassets.com
+DOMAIN-SUFFIX,mendeley.com
+DOMAIN-SUFFIX,ssrn.com
+
+# Springer Nature
+DOMAIN-SUFFIX,springer.com
+DOMAIN-SUFFIX,springerlink.com
+DOMAIN-SUFFIX,springernature.com
+DOMAIN-SUFFIX,springeropen.com
+DOMAIN-SUFFIX,nature.com
+DOMAIN-SUFFIX,biomedcentral.com
+
+# Wiley
+DOMAIN-SUFFIX,wiley.com
+
+# Taylor & Francis
+DOMAIN-SUFFIX,tandfonline.com
+DOMAIN-SUFFIX,tandf.co.uk
+DOMAIN-SUFFIX,taylorandfrancis.com
+DOMAIN-SUFFIX,taylorfrancis.com
+
+# Publishers / Journals
+DOMAIN-SUFFIX,sagepub.com
+DOMAIN-SUFFIX,mdpi.com
+DOMAIN-SUFFIX,frontiersin.org
+DOMAIN-SUFFIX,cambridge.org
+DOMAIN-SUFFIX,oup.com
+DOMAIN-SUFFIX,science.org
+DOMAIN-SUFFIX,pnas.org
+DOMAIN-SUFFIX,cell.com
+DOMAIN-SUFFIX,thelancet.com
+DOMAIN-SUFFIX,bmj.com
+DOMAIN-SUFFIX,nejm.org
+
+# Societies / Technical Publishers
+DOMAIN-SUFFIX,iop.org
+DOMAIN-SUFFIX,optica.org
+DOMAIN-SUFFIX,osapublishing.org
+DOMAIN-SUFFIX,spiedigitallibrary.org
+DOMAIN-SUFFIX,spie.org
+DOMAIN-SUFFIX,aiaa.org
+DOMAIN-SUFFIX,asme.org
+DOMAIN-SUFFIX,aps.org
+DOMAIN-SUFFIX,aip.org
+DOMAIN-SUFFIX,rsc.org
+DOMAIN-SUFFIX,acs.org
+DOMAIN-SUFFIX,siam.org
+DOMAIN-SUFFIX,informs.org
+
+# Search / Preprints / Identity
+DOMAIN-SUFFIX,scholar.google.com
+DOMAIN-SUFFIX,arxiv.org
+DOMAIN-SUFFIX,biorxiv.org
+DOMAIN-SUFFIX,medrxiv.org
+DOMAIN-SUFFIX,semanticscholar.org
+DOMAIN-SUFFIX,researchgate.net
+DOMAIN-SUFFIX,orcid.org
+DOMAIN-SUFFIX,doi.org
+DOMAIN-SUFFIX,doaj.org
+DOMAIN-SUFFIX,core.ac.uk
+DOMAIN-SUFFIX,researchsquare.com
+DOMAIN-SUFFIX,zotero.org
+DOMAIN-SUFFIX,overleaf.com
+DOMAIN-SUFFIX,europepmc.org
+DOMAIN-SUFFIX,ncbi.nlm.nih.gov
+
+# Manuscript Submission / Peer Review
+DOMAIN-SUFFIX,manuscriptcentral.com
+DOMAIN-SUFFIX,scholarone.com
+DOMAIN-SUFFIX,editorialmanager.com
+DOMAIN-SUFFIX,ejournalpress.com
+
+# Conference Submission
+DOMAIN-SUFFIX,easychair.org
+DOMAIN-SUFFIX,edas.info
+DOMAIN-SUFFIX,paperplaza.net
+DOMAIN-SUFFIX,openreview.net
+DOMAIN-SUFFIX,hotcrp.com
+DOMAIN-SUFFIX,exordo.com
+DOMAIN-SUFFIX,cmt3.research.microsoft.com
+DOMAIN-SUFFIX,softconf.com
+
+# Academic Publishing Infrastructure
+DOMAIN-SUFFIX,silverchair-cdn.com
+DOMAIN-SUFFIX,literatumonline.com
+DOMAIN-SUFFIX,readcube.com
