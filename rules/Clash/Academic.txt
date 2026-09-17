@@ -1,8 +1,8 @@
 # NAME: Academic
 # AUTHOR: CASIUNA
 # UPDATED: 2026-09-17
-# DOMAIN-SUFFIX: 89
-# TOTAL: 89
+# DOMAIN-SUFFIX: 92
+# TOTAL: 92
 
 # Index / Database
 +.engineeringvillage.com
