@@ -23,7 +23,10 @@ DOMAIN-SUFFIX,ieee.org
 DOMAIN-SUFFIX,computer.org
 DOMAIN-SUFFIX,ieeecomputer.org
 DOMAIN-SUFFIX,ieeecomputersociety.org
-DOMAIN-SUFFIX,acm.org
+DOMAIN-SUFFIX,submission.researchexchange.com
+DOMAIN-SUFFIX,researchexchange.com
+DOMAIN-SUFFIX,scienceconnect.io
+DOMAIN-SUFFIX,atyponrex.com
 
 # Elsevier
 DOMAIN-SUFFIX,elsevier.com
