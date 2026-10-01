@@ -3,24 +3,64 @@
   "description": "by CASIUNA",
   "icons": [
     {
-      "name": "Dmit",
-      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/dmit.png"
+      "name": "3xui",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/3xui.png"
     },
     {
       "name": "Bajie",
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/bajie.png"
     },
     {
+      "name": "Chorus",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/chorus.png"
+    },
+    {
       "name": "Cliproxy",
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/cliproxy.png"
+    },
+    {
+      "name": "CT",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/ct.png"
+    },
+    {
+      "name": "CU",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/cu.png"
+    },
+    {
+      "name": "Cudy",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/cudy.png"
+    },
+    {
+      "name": "Dmit",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/dmit.png"
+    },
+    {
+      "name": "EPG",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/epg.png"
+    },
+    {
+      "name": "Komari",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/komari.png"
+    },
+    {
+      "name": "llama",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/llama-cpp.png"
+    },
+    {
+      "name": "Lucky",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/lucky.png"
+    },
+    {
+      "name": "Sydney",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/sydney.png"
     },
     {
       "name": "Talkatone",
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/talkatone.png"
     },
     {
-      "name": "3xui",
-      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/3xui.png"
+      "name": "udpxy",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/udpxy.png"
     }
   ]
 }
