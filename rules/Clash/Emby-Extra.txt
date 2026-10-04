@@ -1,9 +1,9 @@
 # NAME: Emby
 # AUTHOR: CASIUNA
 # UPDATED: 2026-10-02
-# DOMAIN: 9
+# DOMAIN: 10
 # DOMAIN-SUFFIX: 1
-# TOTAL: 10
+# TOTAL: 11
 
 emby.my
 speedtest-babybus.apple-cdn.net
@@ -14,4 +14,5 @@ aaa.yusen6.ccwu.cc
 emby.yusen.us.ci
 embya.yusen.cyou
 emby.yusen.cc.cd
+emby.hellohk.me
 +.dian115.com
