@@ -2,11 +2,16 @@
 # AUTHOR: CASIUNA
 # UPDATED: 2026-09-15
 # DOMAIN: 21
-# DOMAIN-SUFFIX: 23
-# TOTAL: 44
+# DOMAIN-SUFFIX: 26
+# TOTAL: 47
 
 # GeoSpoof
 DOMAIN-SUFFIX,geospoof.com
+
+# Cloudflare / Challenge
+DOMAIN-SUFFIX,challenges.cloudflare.com
+DOMAIN-SUFFIX,cloudflareinsights.com
+DOMAIN-SUFFIX,dnstest.dev
 
 # One-ip
 DOMAIN,ip.mihana.me
