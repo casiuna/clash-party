@@ -1,8 +1,8 @@
 # NAME: AI-Extra
 # AUTHOR: CASIUNA
 # UPDATED: 2026-10-05
-# DOMAIN-SUFFIX: 6
 # DOMAIN: 2
+# DOMAIN-SUFFIX: 6
 # TOTAL: 8
 
 +.workos.com
