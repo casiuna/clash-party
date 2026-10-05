@@ -9,7 +9,6 @@
 +.workoscdn.com
 workos.imgix.net
 cdn.openaimerge.com
-+.challenges.cloudflare.com
 +.browser-intake-datadoghq.com
 +.hcaptcha.com
 +.arkoselabs.com
