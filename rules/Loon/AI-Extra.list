@@ -1,15 +1,14 @@
 # NAME: AI-Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-09-23
-# DOMAIN-SUFFIX: 7
+# UPDATED: 2026-10-05
 # DOMAIN: 2
+# DOMAIN-SUFFIX: 6
 # TOTAL: 9
 
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workoscdn.com
 DOMAIN,workos.imgix.net
 DOMAIN,cdn.openaimerge.com
-DOMAIN-SUFFIX,challenges.cloudflare.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,arkoselabs.com
