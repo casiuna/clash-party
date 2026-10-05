@@ -8,13 +8,13 @@
 # GeoSpoof
 +.geospoof.com
 
-# One-ip
-ip.mihana.me
-
 # Cloudflare / Challenge
 +.challenges.cloudflare.com
 +.cloudflareinsights.com
 +.dnstest.dev
+
+# One-ip
+ip.mihana.me
 
 # IP / Geo
 ping0.cc
