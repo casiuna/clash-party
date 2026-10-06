@@ -1,19 +1,31 @@
-# NAME: Emby
+# NAME: Emby—Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-10-02
-# DOMAIN: 11
-# DOMAIN-SUFFIX: 1
-# TOTAL: 12
+# UPDATED: 2026-10-06
+# DOMAIN: 12
+# DOMAIN-SUFFIX: 3
+# TOTAL: 15
 
+# bbqaq
+emby.bbqwq.com
+# 月饼
 emby.my
 speedtest-babybus.apple-cdn.net
-emby.bbqwq.com
+# 非越
 media.emby.pro
+# 予初
 13.yusen.cyou
 aaa.yusen6.ccwu.cc
 emby.yusen.us.ci
 embya.yusen.cyou
 emby.yusen.cc.cd
+# 予初Pro
+yuchu.yusen.cc.cd
+9527.yusen.cyou
+# 百花剧院/主厨菜单
++.ibukifuko.tech
+# 风月阁
 emby.hellohk.me
-jf.dqx99999.shop
+# 流光画廊
++.dqx99999.shop
+# 癜影
 +.dian115.com
