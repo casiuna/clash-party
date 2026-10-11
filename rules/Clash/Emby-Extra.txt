@@ -1,9 +1,9 @@
 # NAME: Emby—Extra
 # AUTHOR: CASIUNA
 # UPDATED: 2026-10-11
-# DOMAIN: 17
-# DOMAIN-SUFFIX: 3
-# TOTAL: 20
+# DOMAIN: 18
+# DOMAIN-SUFFIX: 4
+# TOTAL: 22
 
 # 茶百道
 emby.chapanda.site
@@ -33,7 +33,11 @@ speedtest-babybus.apple-cdn.net
 +.ibukifuko.tech
 # 风月阁
 emby.hellohk.me
-# 癜影
-+.dian115.com
+# 帝服/Pro
++。di0.uk
+# 茶包
+tbagemby.tbag.dpdns.org
 # BBqaq
 emby.bbqwq.com
+# 癜影
++.dian115.com
