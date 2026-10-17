@@ -1,11 +1,13 @@
 # NAME: Emby-Ultra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-10-08
+# UPDATED: 2026-10-17
 # DOMAIN: 1
-# DOMAIN-SUFFIX: 1
-# TOTAL: 2
+# DOMAIN-SUFFIX: 2
+# TOTAL: 3
 
 # 茉莉
 DOMAIN-SUFFIX,mlhyy.top
 # 乐观
 DOMAIN,xyemby.kingba.com
+# 宸宇
+DOMAIN-SUFFIX,dylan.xin
