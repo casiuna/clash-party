@@ -3,6 +3,10 @@
   "description": "by CASIUNA",
   "icons": [
     {
+      "name": "elle",
+      "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/elle.png"
+    },
+    {
       "name": "3xui",
       "url": "https://raw.githubusercontent.com/casiuna/clash-party/main/logo/3xui.png"
     },
