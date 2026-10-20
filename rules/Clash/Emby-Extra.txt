@@ -2,8 +2,8 @@
 # AUTHOR: CASIUNA
 # UPDATED: 2026-10-21
 # DOMAIN: 20
-# DOMAIN-SUFFIX: 6
-# TOTAL: 26
+# DOMAIN-SUFFIX: 7
+# TOTAL: 27
 
 # SDL
 +.saturdayent.top
@@ -14,6 +14,7 @@ emby.chapanda.site
 # 这只猫
 vipdc.covh.eu.org
 eb.zzm.li
++.ftp2.eu.org
 # 非越
 media.emby.pro
 # 予初
