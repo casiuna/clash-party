@@ -1,22 +1,21 @@
 # NAME: Emby—Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-10-20
-# DOMAIN: 18
+# UPDATED: 2026-10-21
+# DOMAIN: 20
 # DOMAIN-SUFFIX: 6
-# TOTAL: 24
+# TOTAL: 26
 
 # SDL
 +.saturdayent.top
-# 茶百道
-emby.chapanda.site
 # SNTP Lite
 lite.cn2gias.uk
+# 茶百道
+emby.chapanda.site
+# 这只猫
+vipdc.covh.eu.org
+eb.zzm.li
 # 非越
 media.emby.pro
-# 乐观
-emby.dijia.de
-yxrkemby.haosao.de
-emby.haosao.de
 # 予初
 13.yusen.cyou
 aaa.yusen6.ccwu.cc
@@ -26,6 +25,10 @@ emby.yusen.cc.cd
 # 予初Pro
 yuchu.yusen.cc.cd
 9527.yusen.cyou
+# 乐观
+emby.dijia.de
+yxrkemby.haosao.de
+emby.haosao.de
 # 宸澄
 embycc.wybcs.work
 # 茶包
