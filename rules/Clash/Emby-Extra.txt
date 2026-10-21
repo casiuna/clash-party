@@ -1,9 +1,9 @@
 # NAME: Emby—Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-10-21
-# DOMAIN: 20
+# UPDATED: 2026-10-22
+# DOMAIN: 22
 # DOMAIN-SUFFIX: 7
-# TOTAL: 27
+# TOTAL: 29
 
 # SDL
 +.saturdayent.top
@@ -15,8 +15,10 @@ emby.chapanda.site
 vipdc.covh.eu.org
 eb.zzm.li
 +.ftp2.eu.org
-# 非越
-media.emby.pro
+# emos
+video.emos.best
+# 盒马
+media.freshippo.uno
 # 予初
 13.yusen.cyou
 aaa.yusen6.ccwu.cc
@@ -26,6 +28,8 @@ emby.yusen.cc.cd
 # 予初Pro
 yuchu.yusen.cc.cd
 9527.yusen.cyou
+# 非越
+media.emby.pro
 # 乐观
 emby.dijia.de
 yxrkemby.haosao.de
