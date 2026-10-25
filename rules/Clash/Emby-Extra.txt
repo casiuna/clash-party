@@ -53,7 +53,7 @@ speedtest-babybus.apple-cdn.net
 # 风月阁
 emby.hellohk.me
 # 帝服/Pro
-+。di0.uk
++.di0.uk
 
 # 癜影
 +.dian115.com
