@@ -1,9 +1,9 @@
 # NAME: Emby—Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-10-22
-# DOMAIN: 22
+# UPDATED: 2026-10-26
+# DOMAIN: 23
 # DOMAIN-SUFFIX: 7
-# TOTAL: 29
+# TOTAL: 30
 
 # SDL
 +.saturdayent.top
@@ -42,6 +42,7 @@ tbagemby.tbag.dpdns.org
 emby.bbqwq.com
 # 月饼
 emby.my
+876645.xyz
 speedtest-babybus.apple-cdn.net
 # 百花剧院/主厨菜单
 +.ibukifuko.tech
