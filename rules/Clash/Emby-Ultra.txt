@@ -1,9 +1,9 @@
 # NAME: Emby-Ultra
 # AUTHOR: CASIUNA
 # UPDATED: 2026-10-20
-# DOMAIN: 4
+# DOMAIN: 5
 # DOMAIN-SUFFIX: 2
-# TOTAL: 6
+# TOTAL: 7
 
 # 茉莉
 +.mlhyy.top
@@ -15,3 +15,5 @@ goemby.etflix.lol
 xyemby.kingba.com
 # 宸宇
 +.dylan.xin
+# 月饼推流
+speedtest-babybus.apple-cdn.net
