@@ -1,9 +1,9 @@
 # NAME: Emby—Extra
 # AUTHOR: CASIUNA
 # UPDATED: 2026-10-26
-# DOMAIN: 23
+# DOMAIN: 24
 # DOMAIN-SUFFIX: 7
-# TOTAL: 30
+# TOTAL: 31
 
 # SDL
 DOMAIN-SUFFIX,saturdayent.top
@@ -43,6 +43,8 @@ DOMAIN,emby.bbqwq.com
 # 月饼
 DOMAIN,emby.my
 DOMAIN,876645.xyz
+# 月饼推流
+DOMAIN,speedtest-babybus.apple-cdn.net
 # 百花剧院/主厨菜单
 DOMAIN-SUFFIX,ibukifuko.tech
 
