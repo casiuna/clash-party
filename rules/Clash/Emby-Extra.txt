@@ -43,7 +43,6 @@ emby.bbqwq.com
 # 月饼
 emby.my
 876645.xyz
-speedtest-babybus.apple-cdn.net
 # 百花剧院/主厨菜单
 +.ibukifuko.tech
 
