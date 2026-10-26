@@ -1,8 +1,8 @@
 # NAME: Emby-Ultra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-10-20
-# DOMAIN: 4
-# DOMAIN-SUFFIX: 2
+# UPDATED: 2026-10-27
+# DOMAIN: 3
+# DOMAIN-SUFFIX: 3
 # TOTAL: 6
 
 # 茉莉
@@ -12,6 +12,6 @@ goemby.entertang.work
 embygogo.entertang.work
 goemby.etflix.lol
 # 乐观
-xyemby.kingba.com
++.kingba.com
 # 宸宇
 +.dylan.xin
