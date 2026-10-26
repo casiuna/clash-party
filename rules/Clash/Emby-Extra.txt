@@ -1,9 +1,9 @@
 # NAME: Emby—Extra
 # AUTHOR: CASIUNA
 # UPDATED: 2026-10-26
-# DOMAIN: 24
+# DOMAIN: 25
 # DOMAIN-SUFFIX: 8
-# TOTAL: 32
+# TOTAL: 33
 
 # SDL
 +.saturdayent.top
@@ -52,6 +52,7 @@ speedtest-babybus.apple-cdn.net
 +.dqx99999.shop
 # 营养快线
 +.yykx.top
+18av-302.javstrm-worker.workers.dev
 # Niubi
 +.niubi.us.kg
 # 风月阁
