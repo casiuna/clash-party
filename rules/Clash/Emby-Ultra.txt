@@ -2,8 +2,8 @@
 # AUTHOR: CASIUNA
 # UPDATED: 2026-11-02
 # DOMAIN: 4
-# DOMAIN-SUFFIX: 4
-# TOTAL: 8
+# DOMAIN-SUFFIX: 3
+# TOTAL: 7
 
 # 茉莉
 +.mlhyy.top
@@ -13,8 +13,7 @@ embygogo.entertang.work
 goemby.etflix.lol
 # 乐观
 +.kingba.com
-# 西瓜
-+.yuntv.de
-xg.yuntv.de
+# 9527
+emby.9527.new.tg
 # 宸宇
 +.dylan.xin
