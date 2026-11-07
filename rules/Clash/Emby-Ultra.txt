@@ -1,9 +1,9 @@
 # NAME: Emby-Ultra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-11-02
-# DOMAIN: 4
+# UPDATED: 2026-11-07
+# DOMAIN: 6
 # DOMAIN-SUFFIX: 3
-# TOTAL: 7
+# TOTAL: 9
 
 # 茉莉
 +.mlhyy.top
@@ -17,3 +17,7 @@ goemby.etflix.lol
 emby.9527.new.tg
 # 宸宇
 +.dylan.xin
+# 乐蛙
+emby.taotu.ink
+# Msky
+gcf.betop.uk
