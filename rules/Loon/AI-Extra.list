@@ -1,9 +1,9 @@
 # NAME: AI-Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-10-05
-# DOMAIN: 2
-# DOMAIN-SUFFIX: 6
-# TOTAL: 8
+# UPDATED: 2026-11-23
+# DOMAIN: 5
+# DOMAIN-SUFFIX: 11
+# TOTAL: 16
 
 DOMAIN-SUFFIX,workos.com
 DOMAIN-SUFFIX,workoscdn.com
@@ -12,4 +12,14 @@ DOMAIN,cdn.openaimerge.com
 DOMAIN-SUFFIX,browser-intake-datadoghq.com
 DOMAIN-SUFFIX,hcaptcha.com
 DOMAIN-SUFFIX,arkoselabs.com
+
+# === Muse AI ===
 DOMAIN-SUFFIX,muse.ai
+DOMAIN-SUFFIX,museai.com
+DOMAIN-SUFFIX,metaaivm.com
+DOMAIN-SUFFIX,meta.ai
+DOMAIN,meta-ohttp-config-prod.fastly-edge.com
+DOMAIN,meta-ohttp-relay-prod.fastly-edge.com
+DOMAIN-SUFFIX,meta.com
+DOMAIN,connect.facebook.net
+DOMAIN-SUFFIX,fbcdn.net
