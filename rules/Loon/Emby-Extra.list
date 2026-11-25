@@ -1,46 +1,30 @@
 # NAME: Emby—Extra
 # AUTHOR: CASIUNA
-# UPDATED: 2026-11-17
-# DOMAIN: 31
-# DOMAIN-SUFFIX: 8
-# TOTAL: 39
+# UPDATED: 2026-11-25
 
 # SDL
 DOMAIN-SUFFIX,saturdayent.top
 # SNTP Lite
 DOMAIN,lite.cn2gias.uk
+# 乐观
+DOMAIN,emby.dijia.de
+DOMAIN,yxrkemby.haosao.de
+DOMAIN,emby.haosao.de
+# emos
+DOMAIN,video.emos.best
 # 茶百道
 DOMAIN,emby.chapanda.site
 # 这只猫
 DOMAIN,vipdc.covh.eu.org
 DOMAIN,eb.zzm.li
 DOMAIN-SUFFIX,ftp2.eu.org
-# emos
-DOMAIN,video.emos.best
-# 盒马
-DOMAIN,media.freshippo.uno
-# 予初
-DOMAIN,13.yusen.cyou
-DOMAIN,aaa.yusen6.ccwu.cc
-DOMAIN,emby.yusen.us.ci
-DOMAIN,embya.yusen.cyou
-DOMAIN,emby.yusen.cc.cd
-# 予初Pro
-DOMAIN,yuchu.yusen.cc.cd
-DOMAIN,9527.yusen.cyou
+# BBqaq
+DOMAIN,emby.bbqwq.com
 # 非越
 DOMAIN,media.emby.pro
-# 乐观
-DOMAIN,emby.dijia.de
-DOMAIN,yxrkemby.haosao.de
-DOMAIN,emby.haosao.de
 # 宸澄
 DOMAIN,embycc.wybcs.work
 DOMAIN-SUFFIX,wybcs.work
-# 茶包
-DOMAIN,tbagemby.tbag.dpdns.org
-# BBqaq
-DOMAIN,emby.bbqwq.com
 # 月饼
 DOMAIN,emby.my
 DOMAIN,876645.xyz
@@ -48,15 +32,23 @@ DOMAIN,876645.xyz
 DOMAIN,speedtest-babybus.apple-cdn.net
 # 百花剧院
 DOMAIN-SUFFIX,ibukifuko.tech
-# 主厨菜单
+# 主厨菜单/周三晚
 DOMAIN,thxnk.cc
 # 海豚
 DOMAIN,emby.barrybarry.top
+# 9527
+DOMAIN,fmao.eu.org
+# 予初/予初Pro
+DOMAIN,13.yusen.cyou
+DOMAIN,aaa.yusen6.ccwu.cc
+DOMAIN,emby.yusen.us.ci
+DOMAIN,embya.yusen.cyou
+DOMAIN,emby.yusen.cc.cd
+DOMAIN,yuchu.yusen.cc.cd
+DOMAIN,9527.yusen.cyou
 
 # 驭龙
 DOMAIN,dragon.wybcs.work
-# 流光画廊
-DOMAIN-SUFFIX,dqx99999.shop
 # 营养快线
 DOMAIN-SUFFIX,yykx.top
 DOMAIN,18av-302.javstrm-worker.workers.dev
@@ -66,10 +58,18 @@ DOMAIN,772111.xyz
 DOMAIN,us.772111.xyz
 # 风月阁
 DOMAIN,emby.hellohk.me
-# 帝服/Pro
-DOMAIN-SUFFIX,di0.uk
+# 流光画廊
+DOMAIN-SUFFIX,dqx99999.shop
 
 # pot eco
 DOMAIN,eco.potdot.de
 # 癜影
 DOMAIN-SUFFIX,dian115.com
+
+## Trash ##
+# 盒马
+DOMAIN,media.freshippo.uno
+# 茶包
+DOMAIN,tbagemby.tbag.dpdns.org
+# 帝服/Pro
+DOMAIN-SUFFIX,di0.uk
